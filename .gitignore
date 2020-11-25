@@ -1,0 +1,11 @@
+### Nim ###
+nimcache/
+nimblecache/
+htmldocs/
+
+### Windows Binaries ###
+*.exe
+# mt.exe is how I force a UAC prompt. (https://docs.microsoft.com/en-us/windows/win32/sbscs/mt-exe)
+mt.exe
+
+bin/
